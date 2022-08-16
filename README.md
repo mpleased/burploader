@@ -41,7 +41,7 @@ BurpSuite_Pro_v2022.8.1
 │  burpsuite_pro_v2022.8.1.jar
 │  start_burpsuite_en_v2022.8.1.bat
 │  burploader_by_mpleased.com.jar
-|   start_burploader_by_mpleased.com.bat
+|  start_burploader_by_mpleased.com.bat
 |
 └─SoftwareEnvironment
     └─Java
