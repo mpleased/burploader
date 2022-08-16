@@ -11,6 +11,9 @@ BurpLoader Runtime:<br>
 Java Version >= 11<br>
 Using JDK 11 OR Higher.
 
+## C: The first run requires BurpSuite to be started and activated using BurpLoader
+Refer to Section 0x002 for BurpLoader and BurpSuite startup methods
+
 # 0x002 - Startting Examples.
 ## A: Directory Structure
 ### a: Directory Structure A
@@ -67,3 +70,14 @@ SET CLASSPATH=.;%JAVA_HOME%\lib
 rem Core Startup Command.
 START java --illegal-access=permit -javaagent:Activation_Licenses\burploader_by_mpleased.com.jar -Dfile.encoding=utf-8 -noverify -jar -Xmx3072M burpsuite_pro_v2020.8.1.jar pause exit
 ```
+## D: Using burpload strartup BurpSuite.
+\# Important: The following conditions must be met.<br>
+\# A: Only if the current JDK version is able to launch BurpSuite directly.<br>
+\# B: Burploader and BurpSuite are in the same directory.<br>
+\# C: Install the Java environment ahead of time.<br>
+1.Running The BurpLoader Jar File.<br>
+```powershell
+java -jar burploader_by_mpleased.com.jar
+```
+2.Click the Run Button Startup The BurpSuite<br>
+3.Complete the activation process.
