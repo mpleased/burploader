@@ -1,3 +1,7 @@
+# 0x000 - statement as follows
+The following is for study and test purposes only and is not commercial. If possible, please support the original version.<br>
+[portswigger.net Official web site](https://portswigger.net/)
+
 # 0x001 - Project INFO
 ## A: burploader INFO
 BurpSuite Activation for mpleased.com<br>
