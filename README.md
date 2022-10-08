@@ -6,7 +6,7 @@ The following is for study and test purposes only and is not commercial. If poss
 ## A: burploader INFO
 BurpSuite Activation for mpleased.com<br>
 BurpLoader is compiled from JDK8.<br>
-Support BurpSuite Version: V2020.2 ~ Latest Version.<br>
+Support BurpSuite Version: V2020.2 ~ V2022.8.X Version.<br>
 Activation Date: After 10000.<br>
 BurpLoader Runtime:<br>
 &nbsp;&nbsp;recommended as required by BrupSuite.
